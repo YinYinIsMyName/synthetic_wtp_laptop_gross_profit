@@ -1,0 +1,2 @@
+# synthetic_wtp_laptop_gross_profit
+gross_profit
